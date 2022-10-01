@@ -2,4 +2,4 @@
 
 
 
-https://simranjeet.dev
+https://simranjeet.dev/pokemon
